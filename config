@@ -1,3 +1,7 @@
 theme = GruvboxDarkHard
-background-opacity = 0.99
-#background = 000000
+
+background-opacity = 0.9
+background-blur-radius = 20
+
+cursor-style = block
+cursor-style-blink = true
